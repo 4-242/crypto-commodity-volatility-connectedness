@@ -1,7 +1,6 @@
 # crypto-commodity-volatility-connectedness
 Diebold–Yilmaz volatility spillovers across Bitcoin, gold, oil, coffee and corn (2010–2025) using TVP-VAR
 
-```markdown
 # Cryptocurrency–Commodity Volatility Connectedness
 
 **Measuring volatility spillovers across Bitcoin, gold, crude oil, coffee and corn (2010–2025) with the Diebold–Yilmaz framework and a Kalman-filter TVP-VAR — and showing why static models understate systemic risk.**
