@@ -1,0 +1,6 @@
+data/commodities.xlsx
+data/processed/
+output/models/
+.Rhistory
+.RData
+.DS_Store
