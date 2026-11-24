@@ -16,7 +16,7 @@ time-varying average, and exceeded 35% during the COVID-19 shock.
 
 ## Data
 
-- Weekly log returns, January 2010 – October 2025
+- Weekly simple returns, January 2010 – October 2025
 - Assets: Bitcoin, gold, crude oil, coffee, corn
 - Data Source: Investing.com — weekly closing prices, converted to weekly log returns.
 
