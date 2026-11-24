@@ -80,6 +80,6 @@ source("R/04_robustness.R")
 ```
 
 ## Author
-Ayomide Abodunrin — Statistics, University of Ibadan (final-year project)
+Ayomide Abodunrin
 abodunrinayomide01@gmail.com
 
