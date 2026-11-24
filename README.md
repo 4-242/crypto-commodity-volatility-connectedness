@@ -7,13 +7,13 @@ This project measures dynamic volatility connectedness between Bitcoin and four
 commodities — gold, crude oil, coffee and corn — using the Diebold–Yilmaz spillover
 framework with a time-varying parameter VAR (TVP-VAR) estimated via the Kalman filter.
 
-The headline result: **static connectedness measures understate systemic risk
-substantially.** Total connectedness was 4.38% in the static model against a 13.36%
+The headline result: static connectedness measures understate systemic risk
+substantially. Total connectedness was 4.38% in the static model against a 13.36%
 time-varying average, and exceeded 35% during the COVID-19 shock.
 
 ## Data
 
-- Weekly returns/volatility, **January 2010 – October 2025**
+- Weekly returns/volatility, January 2010 – October 2025
 - Assets: Bitcoin, gold, crude oil, coffee, corn
 - Data Source: Investing.com
 
