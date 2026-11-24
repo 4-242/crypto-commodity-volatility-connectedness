@@ -47,11 +47,11 @@ time-varying average, and exceeded 35% during the COVID-19 shock.
 | Main net transmitter | Gold |
 
 <img width="975" height="587" alt="image" src="https://github.com/user-attachments/assets/feb82249-154c-42ad-815e-950a1856b7a7" />
-*Fig. 1 - Dynamic Total Volatility Connectedness Index (TVP-VAR)*
+ *Fig. 1 - Dynamic Total Volatility Connectedness Index (TVP-VAR)*
 
 
 <img width="975" height="587" alt="image" src="https://github.com/user-attachments/assets/7af58a2c-4ff5-4361-8d86-90034601c650" />
-*Fig. 2 - Total Directional Volatility Connectedness TO Others*
+ *Fig. 2 - Total Directional Volatility Connectedness TO Others*
 
 ## Why it matters
 
